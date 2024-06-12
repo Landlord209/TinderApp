@@ -1,0 +1,23 @@
+.iconBox{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    max-width: 20vw;
+    background-color: whitesmoke;
+    box-shadow: 2px 5px 3px 2px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    height: 30px;
+    width: 40px;
+}
+.allIcons{
+    position: absolute;
+    margin-bottom: 2%;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}

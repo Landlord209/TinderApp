@@ -1,0 +1,15 @@
+.profile{
+    object-fit: contain;
+    width: 100px;
+    height: 50px;
+    /* background-color: aquamarine; */
+}
+.allhead{
+    display: flex;
+    margin-top: 2%;
+    width: 100%;
+    /* background-color: firebrick; */
+    justify-content: space-between;
+    z-index: 100;
+    /* border-bottom: 1px solid lightgray; */
+}
